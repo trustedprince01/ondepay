@@ -7,7 +7,7 @@ const TestimonialData = () => [
   {
     content:
       "Great session! Dani was super helpful. She shared some practical advice on how can lorem ip we go about refining our service offerings.",
-    author: "Robinson Honour",
+    author: "chibuzor prince",
   },
   {
     content:

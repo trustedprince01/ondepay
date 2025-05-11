@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  font-family: "Space Grotesk";
+  background: #000;
+}
+
+.bold{
+    font-family: "Space Grotesk";
+    font-weight: 700;
+}
+
+.acme-font{
+    font-family: "Acme";
+}
